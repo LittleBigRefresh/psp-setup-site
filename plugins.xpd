@@ -6,4 +6,4 @@ Code=../../seplugins
 FName=game.txt
 
 [File]
-C=HTTP://192.168.69.100:10061/game.txt
+C=HTTP://psp.littlebigrefresh.com:2095/game.txt

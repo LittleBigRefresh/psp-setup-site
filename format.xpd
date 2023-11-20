@@ -6,4 +6,4 @@ Code=../../seplugins
 FName=Allefresher_format.txt
 
 [File]
-C=HTTP://192.168.69.100:10061/Allefresher_format.txt
+C=HTTP://psp.littlebigrefresh.com:2095/Allefresher_format.txt
