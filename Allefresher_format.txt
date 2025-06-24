@@ -1,1 +1,1 @@
-http://%s:2095/lbp%s
+http://%s/lbp%s
